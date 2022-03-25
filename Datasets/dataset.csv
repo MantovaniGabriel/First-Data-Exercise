@@ -1,0 +1,96 @@
+id,age,enterance,average,marital status,job,family income,family member,lost family,special disease,parents relationship,religion,interested in major,sport,activity,belive in abilities,plenty friends,break in love,bankrupcy,political concern,art,smoke,lonely ,worring about job,depression
+1,22,88,mediume,single,no,600000,4,no,no,kind,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no
+2,20,89,mediume,single,yes,2000000,2,no,no,kind,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no
+3,20,89,mediume,single,yes,3000000,6,no,no,kind,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,yes,no
+4,22,87,mediume,single,yes,1000000,4,yes,no,bad,yes,yes,yes,no,yes,no,no,no,yes,yes,no,yes,yes,yes
+5,23,87,mediume,married,no,1000000,2,no,no,kind,yes,no,no,no,no,yes,yes,yes,yes,yes,no,yes,yes,a little
+6,23,89,high,single,no,4000000,5,yes,no,bad,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no
+7,20,89,mediume,single,no,1000000,4,no,no,bad,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,no,no
+8,23,88,mediume,single,no,1200000,5,no,no,kind,yes,yes,no,yes,yes,yes,no,no,yes,yes,no,no,no,no
+9,21,89,mediume,single,yes,5000000,5,no,no,kind,no,yes,no,yes,yes,yes,no,no,yes,no,no,no,no,no
+10,20,90,mediume,single,yes,1000000,3,no,no,Divorce,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes
+11,21,89,mediume,single,yes,2000000,4,no,no,kind,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no
+12,21,89,high,single,yes,4000000,5,no,no,bad,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,no
+13,22,89,low,single,yes,1000000,3,yes,no,kind,yes,yes,yes,yes,no,no,no,yes,no,no,yes,yes,yes,a little
+14,23,90,mediume,single,yes,2000000,4,no,no,kind,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,yes,no
+15,22,90,low,single,no,1000000,3,yes,no,kind,no,no,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,a little
+16,24,86,high,single,no,1000000,4,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+17,24,87,low,single,no,2000000,4,no,no,Divorce,no,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no
+18,26,85,high,single,yes,1000000,4,no,no,bad,yes,no,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+19,20,89,mediume,single,no,1800000,4,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+20,25,87,high,single,yes,3000000,3,no,no,bad,yes,no,yes,yes,no,no,no,yes,yes,yes,no,no,yes,no
+21,24,88,high,single,no,1000000,4,no,no,kind,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,no
+22,24,87,mediume,single,no,1000000,4,no,no,kind,yes,yes,no,yes,no,yes,yes,no,yes,yes,no,no,yes,no
+23,24,85,high,single,yes,2000000,5,no,no,kind,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no
+24,20,89,high,single,yes,3000000,5,no,no,kind,yes,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,no
+25,22,87,low,single,yes,3000000,6,no,no,kind,yes,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,a little
+26,21,89,mediume,single,yes,3000000,3,no,no,kind,no,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,no
+27,24,87,low,single,yes,1000000,5,no,no,kind,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no
+28,22,89,low,single,yes,1000000,4,no,no,bad,yes,yes,no,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes
+29,21,89,high,single,no,1000000,5,yes,no,kind,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,yes,a little
+30,24,88,mediume,single,no,1500000,6,yes,no,bad,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no
+31,22,88,mediume,single,yes,2000000,4,no,no,kind,no,yes,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,no
+32,25,88,mediume,single,yes,3000000,4,no,no,kind,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,yes,no
+33,24,89,mediume,married,no,2000000,2,no,no,Divorce,yes,yes,yes,yes,yes,no,no,no,no,yes,no,no,yes,no
+34,22,88,low,single,yes,1000000,4,yes,no,kind,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no
+35,24,89,mediume,married,yes,3000000,2,no,no,bad,yes,no,no,no,yes,no,no,no,yes,no,yes,yes,no,no
+36,26,87,mediume,married,yes,1000000,4,no,no,kind,yes,no,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no
+37,24,85,mediume,single,yes,1500000,5,no,no,kind,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no
+38,21,88,low,single,no,1000000,4,no,no,kind,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no
+39,22,88,high,single,yes,1000000,5,no,no,kind,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,a little
+40,25,90,mediume,single,yes,4000000,4,no,no,kind,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no
+41,26,90,high,single,yes,2000000,4,no,no,kind,yes,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no
+42,19,89,high,single,no,2000000,5,no,no,bad,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+43,24,88,high,single,no,1000000,4,no,no,kind,no,no,no,no,no,no,no,no,no,no,no,no,no,a little
+44,23,86,mediume,single,yes,4000000,5,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,no
+45,23,87,mediume,married,no,800000,2,no,no,kind,yes,no,yes,no,yes,yes,yes,no,yes,yes,no,no,yes,no
+46,24,85,mediume,single,yes,1000000,5,yes,no,kind,yes,yes,yes,no,yes,no,no,no,yes,no,no,no,yes,yes
+47,23,89,mediume,single,no,1000000,6,no,no,kind,no,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,a little
+48,24,90,mediume,married,yes,1000000,2,no,no,Divorce,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,a little
+49,23,87,mediume,single,yes,1000000,4,no,no,kind,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no
+50,24,88,mediume,single,yes,1000000,5,no,no,kind,yes,no,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no
+51,22,90,mediume,single,yes,600000,6,no,no,kind,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,no
+52,22,89,mediume,single,yes,2000000,5,no,no,kind,yes,yes,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no
+53,23,89,mediume,married,no,1000000,4,no,no,kind,yes,no,no,no,yes,yes,yes,yes,no,yes,no,yes,no,a little
+54,28,89,mediume,married,no,1000000,2,no,no,kind,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,yes,a little
+55,21,88,mediume,single,no,1500000,4,no,no,kind,yes,yes,no,yes,yes,yes,yes,no,yes,yes,no,no,yes,a little
+56,24,86,mediume,single,no,2000000,5,no,no,kind,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no
+57,24,87,mediume,single,yes,1500000,4,no,no,kind,no,no,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,no
+58,23,89,mediume,single,no,1500000,8,no,no,kind,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,yes
+59,22,88,mediume,single,no,2000000,4,no,no,bad,no,yes,no,no,yes,yes,yes,no,no,yes,no,no,yes,a little
+60,23,88,mediume,single,no,2250000,4,no,no,bad,no,yes,no,yes,yes,yes,yes,no,yes,no,yes,yes,yes,a little
+61,23,87,high,single,no,1000000,4,no,no,kind,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no
+62,30,86,mediume,married,no,1500000,2,no,no,bad,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no
+63,22,88,high,married,no,900000,2,no,no,kind,yes,yes,no,no,yes,yes,no,no,yes,yes,no,no,yes,no
+64,22,88,mediume,single,yes,1500000,3,no,no,kind,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,yes,no
+65,25,90,high,married,yes,1000000,2,no,no,kind,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no
+66,22,87,mediume,single,yes,700000,4,no,no,kind,yes,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,yes
+67,24,86,low,single,yes,10000000,4,no,no,kind,no,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no
+68,31,83,low,single,no,1100000,3,yes,no,kind,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,no
+69,24,87,mediume,single,yes,700000,4,no,no,kind,yes,no,no,yes,no,yes,yes,yes,yes,yes,no,no,yes,a little
+70,23,87,high,single,no,1000000,5,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no
+71,24,88,mediume,single,no,1000000,9,yes,no,bad,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,a little
+72,30,89,mediume,single,yes,1000000,4,no,no,kind,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+73,25,88,mediume,single,no,800000,4,no,no,kind,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,a little
+74,24,87,mediume,single,no,500000,5,no,no,kind,yes,yes,no,no,no,no,yes,yes,yes,no,yes,no,yes,no
+75,26,85,mediume,married,no,500000,3,no,no,bad,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes,yes
+76,23,87,mediume,single,no,1000000,5,no,no,kind,yes,no,no,no,no,yes,yes,no,yes,yes,no,yes,yes,a little
+77,25,90,mediume,single,no,1000000,3,no,no,bad,yes,yes,yes,yes,yes,no,no,no,no,yes,no,no,yes,no
+78,25,85,mediume,married,yes,1000000,2,no,no,kind,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no
+79,24,88,mediume,single,yes,500000,9,yes,no,kind,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no
+80,26,88,low,single,no,1000000,5,no,no,Divorce,no,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,a little
+81,30,90,mediume,single,no,1000000,3,no,no,kind,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+82,23,88,mediume,single,yes,1000000,5,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,no,yes
+83,22,87,mediume,single,no,1500000,6,no,no,kind,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no
+84,22,89,high,single,no,800000,5,no,no,kind,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,yes,no
+85,23,89,high,married,no,2000000,2,no,no,kind,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no
+86,25,89,mediume,single,no,900000,5,no,no,kind,yes,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,yes,a little
+87,25,89,mediume,married,no,1000000,2,no,no,kind,yes,yes,yes,yes,yes,yes,no,no,no,yes,no,no,no,no
+88,22,87,mediume,single,no,2000000,6,no,no,bad,no,no,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,a little
+89,21,89,low,single,no,1000000,5,no,no,kind,yes,yes,no,no,yes,yes,no,no,yes,no,yes,yes,yes,a little
+90,22,88,high,single,no,1500000,4,no,yes,kind,yes ,yes,yes,yes,yes,yes,no,no,no,no,no,no,yes,yes
+91,23,88,mediume,single,no,2000000,4,no,no,Divorce,yes,no,yes,no,yes,yes,yes,no,no,no,yes,yes,no,no
+92,23,89,low,single,no,2000000,3,no,no,kind,yes,yes,yes,no,no,yes,no,no,no,no,yes,no,yes,no
+93,19,90,mediume,single,no,1000000,5,no,no,bad,yes,yes,no,yes,no,yes,yes,no,yes,no,no,yes,yes,a little
+94,22,89,high,married,no,3000000,2,no,no,kind,no,yes,no,yes,yes,yes,no,no,yes,yes,no,no,no,no
+95,21,88,mediume,single,no,4000000,5,no,no,bad,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,a little
