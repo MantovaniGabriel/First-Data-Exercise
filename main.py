@@ -1,9 +1,6 @@
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score, classification_report
@@ -33,7 +30,7 @@ scale_credit = StandardScaler()
 x_dtCredit = scale_credit.fit_transform(x_dtCredit)
 
 #base de treinamento.
-x_dtCredit_treinamento, x_dtCredit_teste, y_dtCredit_treinamento, y_dtCredit_teste = train_test_split(x_dtCredit, y_dtCredit, test_size = 0.08, random_state = 0)
+x_dtCredit_treinamento, x_dtCredit_teste, y_dtCredit_treinamento, y_dtCredit_teste = train_test_split(x_dtCredit, y_dtCredit, test_size = 0.25, random_state = 0)
 
 #salvando dados em um arquivo.
 with open('Datasets/credit.pkl', mode = 'wb') as f:
@@ -51,5 +48,6 @@ prevision_dtCredit_data = naive_dtCredit_data.predict(x_dtCredit_teste)
 
 print(prevision_dtCredit_data)
 print(y_dtCredit_teste)
-print("#--- Precisão ---#")
+print("\n\n#--- Precisão ---#")
 print(f'{accuracy_score(y_dtCredit_teste, prevision_dtCredit_data) * 100}%')
+print(classification_report(y_dtCredit_teste, prevision_dtCredit_data))
